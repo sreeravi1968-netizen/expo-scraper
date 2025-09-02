@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+openai
+firebase-admin
+googletrans==4.0.0-rc1
+langdetect
